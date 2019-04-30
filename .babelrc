@@ -1,0 +1,9 @@
+{
+  "babel": true,
+  "polyfill": true,
+  "ts": {
+    "compilerOptions": {
+      "target": "es6"
+    }
+  }
+}
